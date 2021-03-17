@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://arikarim.github.io/University-Directory/)
+[Live Demo Link](https://arikarim.github.io/Portfolio/)
 
 ## Author
 
