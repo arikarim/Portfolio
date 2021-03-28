@@ -120,7 +120,6 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
           transform: translateX(250px);
-  background: #1D809F;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -200,7 +199,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #ab296a;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -325,21 +324,21 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #ab296a;
   text-decoration: none;
 }
 
 a {
-  color: #1D809F;
+  color: #ab296a;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #ab296a;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #ab296a !important;
+  border-color:#ab296a!important;
   color: #fff !important;
 }
 
@@ -370,11 +369,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #ab296a !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #ab296a !important;
 }
 
 .text-secondary {
@@ -418,6 +417,18 @@ a:hover, a:focus, a:active {
   position: relative;
   left: 0;
   bottom: 0;
+}
+
+body {
+  background-color: #e9ecef;
+}
+
+.navigate {
+  background-color: #495057;
+}
+
+.color2 {
+  background-color: #ffc107;
 }
 
 @-webkit-keyframes MoveUpDown {

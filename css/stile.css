@@ -26,6 +26,11 @@
   position:relative;
   display:inline-block;
 }
+
+.text-mutedd {
+  color: rgb(92, 88, 88);
+}
+
 .img-gradientt:after {
   content:'';
   position:absolute;
