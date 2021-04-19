@@ -10,7 +10,7 @@ footer.footer {
     transition: background-color 0.15s ease-in-out;
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
     &:hover {
-      background-color: darken(10%);
+      background-color: darken($primary,10%);
       text-decoration: none;
     }
   }

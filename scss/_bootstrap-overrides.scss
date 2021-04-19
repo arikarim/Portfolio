@@ -3,9 +3,10 @@ a {
   &:hover,
   &:focus,
   &:active {
-    color: darken($primary, 10%);
+    color:$primary;
   }
 }
+
 
 .btn-primary {
   background-color: $primary !important;
@@ -14,8 +15,8 @@ a {
   &:hover,
   &:focus,
   &:active {
-    background-color: darken($primary, 10%) !important;
-    border-color: darken($primary, 10%) !important;
+    background-color: $primary !important;
+    border-color: $primary!important;
   }
 }
 
@@ -26,8 +27,8 @@ a {
   &:hover,
   &:focus,
   &:active {
-    background-color: darken($secondary, 10%) !important;
-    border-color: darken($secondary, 10%) !important;
+    background-color: $secondary !important;
+    border-color: $secondary!important;
   }
 }
 
@@ -43,6 +44,7 @@ a {
 .bg-primary {
   background-color: $primary !important;
 }
+
 
 .text-primary {
   color: $primary !important;

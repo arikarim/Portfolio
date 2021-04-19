@@ -199,7 +199,6 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #ab296a;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -294,7 +293,7 @@ h6 {
             clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(134, 142, 150, 0.9);
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
   }
@@ -324,38 +323,38 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #ab296a;
+  background-color: #6c757d;
   text-decoration: none;
 }
 
 a {
-  color: #ab296a;
+  color: #868e96;
 }
 
 a:hover, a:focus, a:active {
-  color: #ab296a;
+  color: #868e96;
 }
 
 .btn-primary {
-  background-color: #ab296a !important;
-  border-color:#ab296a!important;
+  background-color: #868e96 !important;
+  border-color: #868e96 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #868e96 !important;
+  border-color: #868e96 !important;
 }
 
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
+  background-color: #868e96 !important;
+  border-color: #868e96 !important;
   color: #fff !important;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
+  background-color: #868e96 !important;
+  border-color: #868e96 !important;
 }
 
 .btn-dark {
@@ -369,19 +368,31 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #ab296a !important;
+  background-color: #868e96 !important;
 }
 
 .text-primary {
-  color: #ab296a !important;
+  color: #868e96 !important;
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #868e96 !important;
 }
 
 .alpha {
   background-color: #868e96;
+}
+
+.text-mutedd {
+  color: yellow;
+}
+
+.social-link:hover {
+  background-color: #79dfc1;
+}
+
+.button-col {
+  background-color: #343a40;
 }
 
 .btn1 {
@@ -447,5 +458,13 @@ body {
   50% {
     bottom: 20px;
   }
+}
+
+.color-boot {
+  background-color: #13795b;
+}
+
+#footer {
+  background-color: black;
 }
 /*# sourceMappingURL=stylish-portfolio.css.map */
