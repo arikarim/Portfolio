@@ -379,6 +379,22 @@ a:hover, a:focus, a:active {
   color: #868e96 !important;
 }
 
+.header1 {
+  font-size: 3rem;
+}
+
+.header2 {
+  font-size: 4rem;
+}
+
+.img-ari {
+  width: 300px;
+}
+
+.img-ari > img {
+  border-radius: 170px;
+}
+
 .alpha {
   background-color: #868e96;
 }
