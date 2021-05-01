@@ -387,8 +387,8 @@ a:hover, a:focus, a:active {
   color: yellow;
 }
 
-.social-link:hover {
-  background-color: #79dfc1;
+.social-link {
+  background-color: rgba(46, 42, 42, 0.404);
 }
 
 .button-col {
@@ -401,11 +401,13 @@ a:hover, a:focus, a:active {
 }
 
 .icon1 {
-  width: 140px;
+  width: 170px;
+  height: 50px;
   border-radius: 5px;
 }
 
 .icon1:hover, .icon2:hover {
+  cursor: pointer;
   -webkit-clip-path: inset(2rem);
           clip-path: inset(2rem);
   -webkit-transition: background-color 0.7s, -webkit-clip-path 0.25s ease-out;
@@ -457,7 +459,7 @@ a:hover, a:focus, a:active {
 }
 
 .color-boot {
-  background-color: #13795b;
+  background-color: black;
 }
 
 #footer {
@@ -465,7 +467,8 @@ a:hover, a:focus, a:active {
 }
 
 .bodyy {
-  background: url(../backkk.webp) no-repeat center center fixed;
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(241, 177, 250, 0.52)), to(rgba(117, 19, 93, 0.73))), url("../backkk.webp");
+  background-image: linear-gradient(to right, rgba(241, 177, 250, 0.52), rgba(117, 19, 93, 0.73)), url("../backkk.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
