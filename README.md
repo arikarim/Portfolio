@@ -21,7 +21,8 @@ Additional description about the project and its features.
 - LinkedIn: [AriKarim](https://www.linkedin.com/in/ari-karim-523bb81b3)
 
 ## Credit to real Author
-Ari Larim
+
+Ari Karim
 
 ## Show your support
 
