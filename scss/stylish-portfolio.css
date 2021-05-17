@@ -498,4 +498,12 @@ a:hover, a:focus, a:active {
   position: absolute;
   bottom: 30px;
 }
+
+.it-links {
+  font-size: 20px;
+}
+
+.it-icons {
+  font-size: 30px;
+}
 /*# sourceMappingURL=stylish-portfolio.css.map */
