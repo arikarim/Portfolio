@@ -13,7 +13,7 @@ body {
 }
 
 .content-section {
-  padding-top: 7.5rem;
+  padding-top: 4.5rem;
   padding-bottom: 7.5rem;
 }
 
@@ -491,7 +491,7 @@ a:hover, a:focus, a:active {
 }
 
 .cardd {
-  background-color: #eee6e6;
+  background-color: #e9e9e5;
 }
 
 .built {
