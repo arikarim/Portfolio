@@ -489,4 +489,13 @@ a:hover, a:focus, a:active {
   background-position: center;
   background-size: cover;
 }
+
+.cardd {
+  background-color: #eee6e6;
+}
+
+.built {
+  position: absolute;
+  bottom: 30px;
+}
 /*# sourceMappingURL=stylish-portfolio.css.map */
