@@ -1,7 +1,6 @@
 # My Portfolio
 
 
-
 <!-- ![screenshot](assets/screen.png) -->
 
 Additional description about the project and its features.
