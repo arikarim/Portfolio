@@ -501,9 +501,14 @@ a:hover, a:focus, a:active {
 
 .it-links {
   font-size: 20px;
+  color: antiquewhite;
 }
 
 .it-icons {
   font-size: 30px;
+}
+
+.it {
+  color: #919191;
 }
 /*# sourceMappingURL=stylish-portfolio.css.map */
